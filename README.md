@@ -2,7 +2,7 @@
     <a href="https://github.com/SerenityEirlys/Status-Valorant-On-Discord/">
         <img src="assets/Logo.png" alt="Logo" width="160" height="160">
     </a>
-<h5 align="center"> VALORANT rank yoinker</h5>
+<h5 align="center"> VALORANT Eirlys Checker</h5>
 
 [![Discord][discord-shield]][discord-url]
 [![Downloads][downloads-shield]][downloads-url]
