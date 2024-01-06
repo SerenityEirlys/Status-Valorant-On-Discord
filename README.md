@@ -4,8 +4,7 @@
     </a>
 <h5 align="center"> VALORANT Eirlys Checker</h5>
 
-[![Discord][discord-shield]][discord-url]
-[![Downloads][downloads-shield]][downloads-url]
+https://valorant.bestiestudio.com/
     
  
   <ol>
