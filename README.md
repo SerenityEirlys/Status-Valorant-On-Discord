@@ -1,7 +1,7 @@
-<p align="center">
-    <a href="https://github.com/SerenityEirlys/Status-Valorant-On-Discord/">
-        <img src="assets/Logo.png" alt="Logo" width="160" height="160">
-    </a>
+NEW Version 2.8 Soon
+New API Exitlag -> boost lowping
+
+
 <h5 align="center"> VALORANT Eirlys Checker</h5>
 
 https://valorant.bestiestudio.com/
